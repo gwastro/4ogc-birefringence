@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/arxiv-2109.09718-red)](https://arxiv.org/abs/2109.09718) 
 
 # Tests of Gravitational-Wave Birefringence with the Gravitational-Wave Catalog 
-**[Yi-Fan Wang](yi-fan-wang.github.io)<sup>1, 2</sup>, Stephanie M. Brown<sup>1, 2</sup>, Lijing Shao<sup>3, 4</sup>, Wen Zhao<sup>5, 6</sup>**
+**[Yi-Fan Wang](https://yi-fan-wang.github.io)<sup>1, 2</sup>, Stephanie M. Brown<sup>1, 2</sup>, Lijing Shao<sup>3, 4</sup>, Wen Zhao<sup>5, 6</sup>**
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>
