@@ -13,6 +13,9 @@
 
 We report the results of testing gravitational-wave birefringence using the largest population of gravitational-wave events currently available. Gravitational-wave birefringence, which can arise from the effective field theory extension of general relativity, occurs when the parity symmetry is broken, causing the left- and right-handed polarizations to propagate following different equations of motion. We perform Bayesian inference on the ninety-four events reported by the 4th-Open Gravitational-wave Catalog (4-OGC) using a parity-violating waveform. We find no evidence for a violation of general relativity in the vast majority of events. However, the most massive event, GW190521, and the second most massive event, GW191109, show intriguing non-zero results for gravitational-wave birefringence. We find that the probability of association between GW190521 and the possible electromagnetic (EM) counterpart reported by Zwicky Transient Facility (ZTF) is increased when assuming birefringence. Excluding GW190521 and GW191109, the parity-violating energy scale is constrained to $M_\mathrm{PV} > 0.05$ GeV at $90\%$ credible interval, which is an improvement over previous results from twelve events by a factor of five. We discuss the implications of our results on modified gravity and possible alternative explanations such as waveform systematics. More detections of massive binary black hole mergers from the upcoming LIGO/Virgo/KAGRA run will shed light on the true origin of the apparent birefringence.
 
+## Waveform template
+
+To install the PyCBC waveform template for testing gravitational-wave birefringence, refer to https://github.com/yi-fan-wang/TestingGR_with_Gravwaves. The waveform is described in the paper: [*Waveform of gravitational waves in the general parity-violating gravities (Zhao et al.)*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.024002)
 
 ## License and Citation
 
