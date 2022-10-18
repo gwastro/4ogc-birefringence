@@ -3,7 +3,7 @@
 # Tests of Gravitational-Wave Birefringence with the Gravitational-Wave Catalog 
 **[Yi-Fan Wang](https://yi-fan-wang.github.io)<sup>1, 2</sup>, Stephanie M. Brown<sup>1, 2</sup>, Lijing Shao<sup>3, 4</sup>, Wen Zhao<sup>5, 6</sup>**
 
- <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>
+ <sub>1. [Max-Planck-Institut for Gravitationsphysik (Albert-Einstein-Institut), D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>
  <sub>3. Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing 100871, China</sub>
  <sub>4. National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China</sub>
