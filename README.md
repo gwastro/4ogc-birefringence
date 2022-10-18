@@ -23,16 +23,20 @@ To install the PyCBC waveform template for testing gravitational-wave birefringe
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 United States License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
+This is work is published in [Phys. Rev. D 106, 084005](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.084005) (with open access funded by the Max Planck Society). We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
 @article{Wang:2021gqm,
     author = "Wang, Yi-Fan and Brown, Stephanie M. and Shao, Lijing and Zhao, Wen",
-    title = "{Tests of Gravitational-Wave Birefringence with the Gravitational-Wave Catalog}",
+    title = "{Tests of gravitational-wave birefringence with the open gravitational-wave catalog}",
     eprint = "2109.09718",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
-    month = "9",
-    year = "2021"
+    doi = "10.1103/PhysRevD.106.084005",
+    journal = "Phys. Rev. D",
+    volume = "106",
+    number = "8",
+    pages = "084005",
+    year = "2022"
 }
 ```
